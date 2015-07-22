@@ -12,8 +12,7 @@ export default function ({ Plugin, types: t }) {
 
           return t.callExpression(
             t.functionExpression(null, [], t.blockStatement([
-              t.toStatement(node),
-              t.returnStatement(node.id)
+              t.returnStatement(node)
             ])),
             []
           );
