@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "devDependencies": {
-    "babel": "^5.6.0"
+    "babel": "^6.23.0"
   },
   "scripts": {
     "build": "babel-plugin build",
