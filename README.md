@@ -1,5 +1,7 @@
 # babel-plugin-jscript
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/benjamn/babel-plugin-jscript.svg)](https://greenkeeper.io/)
+
 Babel plugin to fix buggy JScript named function expressions
 
 ## Installation
